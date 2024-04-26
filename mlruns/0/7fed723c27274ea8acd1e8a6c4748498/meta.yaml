@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ej/LEARN/EndtoEndDVC/mlruns/0/7fed723c27274ea8acd1e8a6c4748498/artifacts
+end_time: 1713891523741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fed723c27274ea8acd1e8a6c4748498
+run_name: invincible-jay-798
+run_uuid: 7fed723c27274ea8acd1e8a6c4748498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713891511749
+status: 3
+tags: []
+user_id: ejlearn

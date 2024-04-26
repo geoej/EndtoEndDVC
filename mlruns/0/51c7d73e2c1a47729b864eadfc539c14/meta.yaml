@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ej/LEARN/EndtoEndDVC/mlruns/0/51c7d73e2c1a47729b864eadfc539c14/artifacts
+end_time: 1713890053699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51c7d73e2c1a47729b864eadfc539c14
+run_name: orderly-dog-585
+run_uuid: 51c7d73e2c1a47729b864eadfc539c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713890041541
+status: 3
+tags: []
+user_id: ejlearn

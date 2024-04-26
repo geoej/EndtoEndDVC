@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ej/LEARN/EndtoEndDVC/mlruns/0/9814a49c034a4173b8cbfec5378e23dd/artifacts
+end_time: 1713888004036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9814a49c034a4173b8cbfec5378e23dd
+run_name: adventurous-carp-332
+run_uuid: 9814a49c034a4173b8cbfec5378e23dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713887991530
+status: 3
+tags: []
+user_id: ejlearn

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ej/LEARN/EndtoEndDVC/mlruns/0/d4dd6273879745f692e62c1c5c0aba1f/artifacts
+end_time: 1713892071207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4dd6273879745f692e62c1c5c0aba1f
+run_name: defiant-owl-529
+run_uuid: d4dd6273879745f692e62c1c5c0aba1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713892058626
+status: 3
+tags: []
+user_id: ejlearn
